@@ -1,0 +1,17 @@
+ [2026-04-19 01:13:00] | Location: Lahore, PK | Temp: 32.93C | Condition: clear sky | Note: It's very hot, brother, drink water!
+ [2026-04-29 07:13:53] | Location: Karachi, PK | Temp: 27.71C | Condition: clear sky | Note: The weather is fine, go for a walk.
+ [2026-05-01 08:19:10] | Location: Islamabad, PK | Temp: 27.97C | Condition: overcast clouds | Note: The weather is fine, go for a walk.
+ [2026-05-10 20:15:53] | Location: New York, US | Temp: 26.48C | Condition: clear sky | Note: The weather is fine, go for a walk.
+ [2026-05-10 11:16:59] | Location: Japan, JP | Temp: 19.20C | Condition: clear sky | Note: It's cold, take off your jacket.
+ [2026-05-11 07:17:20] | Location: Alt-Klln, DE | Temp: 12.39C | Condition: few clouds | Note: It's cold, take off your jacket.
+ [2026-05-13 17:04:21] | Location: Faisalabad G.P.O., PK | Temp: 33.77C | Condition: clear sky | Note: It's very hot, brother, drink water!
+ [2026-05-17 20:24:58] | Location: Mexico City, MX | Temp: 27.90C | Condition: clear sky | Note: The weather is fine, go for a walk.
+ [2026-05-17 20:26:46] | Location: Multan G.P.O., PK | Temp: 35.45C | Condition: clear sky | Note: It's very hot, brother, drink water!
+ [2026-05-17 13:55:34] | Location: Portage, CA | Temp: 10.12C | Condition: overcast clouds | Note: It's cold, take off your jacket.
+ [2026-05-17 13:55:56] | Location: Los Angeles, US | Temp: 15.39C | Condition: clear sky | Note: It's cold, take off your jacket.
+ [2026-05-17 13:56:41] | Location: Chicago, US | Temp: 20.33C | Condition: overcast clouds | Note: The weather is fine, go for a walk.
+ [2026-05-17 14:01:04] | Location: Multan, PK | Temp: 40.96C | Condition: haze | Note: It's very hot, brother, drink water!
+ [2026-05-17 14:01:21] | Location: Rawalpindi G.P.O., PK | Temp: 37.88C | Condition: clear sky | Note: It's very hot, brother, drink water!
+
+
+
